@@ -1,0 +1,16 @@
+{
+  "name": "aouto-role",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aouto-role": "file:",
+    "discord.js": "^14.19.3"
+  },
+  "description": ""
+}
